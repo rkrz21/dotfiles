@@ -111,12 +111,14 @@ export PATH=$PATH:~/.local/bin
 
 eval "$(oh-my-posh init zsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/powerlevel10k_rainbow.omp.json')"
 
+<<<<<<< HEAD
 export PATH=$PATH:~/.spicetify
 
 
+=======
+>>>>>>> b121ac0 (Update .zshrc)
 
 zstyle ':omz:plugins:alias-finder' autoload yes # disabled by default
 zstyle ':omz:plugins:alias-finder' longer yes # disabled by default
 zstyle ':omz:plugins:alias-finder' exact yes # disabled by default
 zstyle ':omz:plugins:alias-finder' cheaper yes # disabled by default
-
