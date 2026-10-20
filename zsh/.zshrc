@@ -110,4 +110,7 @@ source $ZSH/oh-my-zsh.sh
 export PATH=$PATH:~/.local/bin
 
 eval "$(oh-my-posh init zsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/powerlevel10k_rainbow.omp.json')"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 40b2cd9 (remove unnceessary plugins)
