@@ -4,7 +4,7 @@ theme = TokyoNight Night
 #Background section
 background-opacity = 0.7
 
-background-blur
+background-blur = false
 
 # Font section
 font-family = "MesloLGL Nerd Font Mono"
